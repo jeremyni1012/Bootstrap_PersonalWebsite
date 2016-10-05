@@ -1,0 +1,60 @@
+.bigh1 {
+    font-size: 6em;
+}
+
+body {
+    font-family: 'source-han-sans-traditional', 'Microsoft Jhenghei';
+}
+
+h1 {
+    4em;
+}
+
+.title {
+    font-size: 4em;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+ul {
+    margin-bottom: 30px;
+}
+
+.reducemargin {
+    margin: 1px;
+}
+
+.intro-header {
+    padding-top: 13%;
+    padding-bottom: 13%;
+    text-align: center;
+    color: dark dimgray;
+    background: url(http://7818-presscdn-0-76.pagely.netdna-cdn.com/wp-content/uploads/2015/10/photodune-3580063-wooden-surface-m3.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.resume1 {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: left;
+    color: dark dimgray;
+    background: white;
+    background-size: cover;
+}
+
+.resume2 {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: left;
+    color: dark dimgray;
+    background: #f2f2f2;
+    background-size: cover;
+}
+
+.banner {
+    padding: 12px 0;
+    color: #f8f8f8;
+    background: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjzGWAXZFLJ4S9Xougfi8SnfshN0nmuJCeTkswUFX7wTgMz1t7) no-repeat center center;
+    background-size: cover;
+    text-align: left;
+}
